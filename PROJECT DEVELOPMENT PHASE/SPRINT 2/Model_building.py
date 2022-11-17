@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-cb9205b0e8bd.js"></script>
   
 
-  <title>IBM-Project-19513-1659698882/index.html at main · IBM-EPBL/IBM-Project-19513-1659698882</title>
+  <title>IBM-Project-19513-1659698882/Model_building.ipynb at main · IBM-EPBL/IBM-Project-19513-1659698882</title>
 
 
 
     
 
-  <meta name="request-id" content="FD95:2AC4:857584:AA6CBC:6375C940" data-turbo-transient="true" /><meta name="html-safe-nonce" content="2d818ce7ee20da390b51a808839885a52c86255e02342259dfff87255eb2ed69" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9JQk0tRVBCTC9JQk0tUHJvamVjdC0xOTUxMy0xNjU5Njk4ODgyL3RyZWUvbWFpbi9Qcm9qZWN0JTIwRGV2ZWxvcG1lbnQlMjBQaGFzZS9TcHJpbnQlMjAzIiwicmVxdWVzdF9pZCI6IkZEOTU6MkFDNDo4NTc1ODQ6QUE2Q0JDOjYzNzVDOTQwIiwidmlzaXRvcl9pZCI6Ijc3NDIyNTAwMTk1NzkyMTAxNjMiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="b834be01660c33386c8bde3849bbb037599fff5898c658338ee952f129afab38" data-turbo-transient="true" />
+  <meta name="request-id" content="FD95:2AC4:8569D7:AA5F1A:6375C90C" data-turbo-transient="true" /><meta name="html-safe-nonce" content="2d818ce7ee20da390b51a808839885a52c86255e02342259dfff87255eb2ed69" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9JQk0tRVBCTC9JQk0tUHJvamVjdC0xOTUxMy0xNjU5Njk4ODgyL3RyZWUvbWFpbi9Qcm9qZWN0JTIwRGV2ZWxvcG1lbnQlMjBQaGFzZS9TcHJpbnQlMjAyIiwicmVxdWVzdF9pZCI6IkZEOTU6MkFDNDo4NTY5RDc6QUE1RjFBOjYzNzVDOTBDIiwidmlzaXRvcl9pZCI6Ijc3NDIyNTAwMTk1NzkyMTAxNjMiLCJyZWdpb25fZWRnZSI6ImNlbnRyYWxpbmRpYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="75217ba66db66c311593982f003a0b49614923bba931bf80ca9a8b5f8ae174ad" data-turbo-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:521612490" data-turbo-transient>
 
@@ -111,11 +111,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7d019c59ccf5644b38201f3a5f278a141cce51289f8d3c6af33513070b8f8ef7/IBM-EPBL/IBM-Project-19513-1659698882" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="IBM-Project-19513-1659698882/index.html at main · IBM-EPBL/IBM-Project-19513-1659698882" /><meta name="twitter:description" content="Crude Oil Price Prediction. Contribute to IBM-EPBL/IBM-Project-19513-1659698882 development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/7d019c59ccf5644b38201f3a5f278a141cce51289f8d3c6af33513070b8f8ef7/IBM-EPBL/IBM-Project-19513-1659698882" /><meta property="og:image:alt" content="Crude Oil Price Prediction. Contribute to IBM-EPBL/IBM-Project-19513-1659698882 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="IBM-Project-19513-1659698882/index.html at main · IBM-EPBL/IBM-Project-19513-1659698882" /><meta property="og:url" content="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882" /><meta property="og:description" content="Crude Oil Price Prediction. Contribute to IBM-EPBL/IBM-Project-19513-1659698882 development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/7d019c59ccf5644b38201f3a5f278a141cce51289f8d3c6af33513070b8f8ef7/IBM-EPBL/IBM-Project-19513-1659698882" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="IBM-Project-19513-1659698882/Model_building.ipynb at main · IBM-EPBL/IBM-Project-19513-1659698882" /><meta name="twitter:description" content="Crude Oil Price Prediction. Contribute to IBM-EPBL/IBM-Project-19513-1659698882 development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/7d019c59ccf5644b38201f3a5f278a141cce51289f8d3c6af33513070b8f8ef7/IBM-EPBL/IBM-Project-19513-1659698882" /><meta property="og:image:alt" content="Crude Oil Price Prediction. Contribute to IBM-EPBL/IBM-Project-19513-1659698882 development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="IBM-Project-19513-1659698882/Model_building.ipynb at main · IBM-EPBL/IBM-Project-19513-1659698882" /><meta property="og:url" content="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882" /><meta property="og:description" content="Crude Oil Price Prediction. Contribute to IBM-EPBL/IBM-Project-19513-1659698882 development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/113496437/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTM0OTY0MzcsInMiOjk5NDgyMzMwMiwiYyI6MzY1NTUwMjI3LCJ0IjoxNjY4NjYzNjIyfQ==--4935ea2a5ded1711946942e59b43f3f1f7a9e1194767df4c08ebfb04ff69bd50" data-refresh-url="/_alive" data-session-id="b708f1591aa7341342a834bb3437ef512aaa80e3df3d2dd02724c79b6907c086">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/113496437/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTM0OTY0MzcsInMiOjk5NDgyMzMwMiwiYyI6MzQ5MTgwNDQ1MSwidCI6MTY2ODY2MzU4MH0=--5c250c5b8a092ae576034eb5938674c626e38e1625b84621b4dfad8c21531d98" data-refresh-url="/_alive" data-session-id="b708f1591aa7341342a834bb3437ef512aaa80e3df3d2dd02724c79b6907c086">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -145,7 +145,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -237,7 +237,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Q21SY56c-QjU2pT9ATxJVBDNmVXGWodjVxmNSJM8FBvsyuIfVI2VDzuH3NLyBDKWbAr_BTYjleOs2cyU7p5n-A" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="TxV40zqFpWP9FTRYUgtbJSaGIa5DD_ZmmXBFnGciUhTgssiv8JTJZBJIfHehMyDnWkFH_rN25OZisARAGoAh9w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -436,7 +436,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;harshi9959&quot;,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="dcdb12235919caee30313079fc3d08802196558633393b64fbdabc6eb41632fe" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;harshi9959&quot;,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="ef14df0ba92b3eff110dfdf43efeb705b5ca5ca32fc52581b6a2cf5ea3f13bd9" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -444,7 +444,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/113496437?s=40&amp;v=4" width="20" height="20" alt="@harshi9959" />
       harshi9959
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZJ5KOU8Ar33VFwCU32ec1bpfelU0ERtxiZFRrUobaNS2hhMfo9HwSdagh38VnY63HK62HRWhk1vVmLsxTtK7jg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="VA3h1JaX9PNEZlvu9euNBuEm77CuXq-JcTU6Pt79J3-GFbjyekarx0fR3AU_EZ9kR9cj-I_uJ6MtPNCi2jT0JQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -479,7 +479,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzNDk2NDM3IiwidCI6MTY2ODY2MzYyMn0=--8fe9328cd436d46b7229b305de5a9ed7406708f4bce11fc434852739e5b92b12" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTEzNDk2NDM3IiwidCI6MTY2ODY2MzU4MH0=--ec7e13330bc8620b577bcd75dd79e69d1a34b6c5afd5543430ed3a2a1b1c750e" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -636,7 +636,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html
+      return-to=/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb
       user-id="113496437"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1602,7 +1602,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="863e87f16f9d84b6357513c27e45ac6008c605df794cdd4dd01ea96aa5e163f8" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="12d1c958bb9b642c26b85627774703667de2d122e2c9eeb9c1e587d5e43d6f75" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1654,7 +1654,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2ZiUSXy5OagOPs1EmUGhKJDxygFzVGd4SZY2EsKZeGYw7XeIKs5eu6d6GvOxd_srybH1j2KlCJbZ766HmyQ6EA" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_llX769FXJJ061lhHWfvAe364ORnsF8qNdSz22qIjg4XLLQu-TI7gd2vjtY1UbUCtLrfanZBMMSlrStOMzXMeA" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="521612490">
 
@@ -1782,7 +1782,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2nfq8furLeOrQ4VBRQJwW6Ciy8JzKBo68IeGWqIQxGgzAgkwrdxK8AIHUvZtNCpY-eL0TGLZddRg_h7P-62GHg" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="J_nkEFD9Zh_GyeFPOakD_oaTYXFK14IRkCOAmTTVBVbOjAfRBooBDG-NNvgRn1n939Ne_1sm7f8AWhgMbWhHIA" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="521612490">
 
@@ -1933,7 +1933,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/IBM-EPBL/IBM-Project-19513-1659698882/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="f4b1a1c42939d924cf5cd3099bb874c5537f7f7259d8ea5c3feb9b1b6c883d62" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of IBM-EPBL/IBM-Project-19513-1659698882" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a icon="repo-forked" href="/IBM-EPBL/IBM-Project-19513-1659698882/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="e9ad865b8472da88662b9a930120b6386b504c331f57e7dbdb01b705af1ce2d1" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of IBM-EPBL/IBM-Project-19513-1659698882" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1951,13 +1951,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-32f181">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-720f47">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-32f181"
+        id="filter-menu-720f47"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1999,10 +1999,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M4xCyopY-3iT1XbIx4lR6i3g-Yf0CXSUA3zWsHL_rKB60UGIRMi4AVixCt5Qe898Se5IyuXHhvt7wCS1MKjWMw" autocomplete="off" />
-          <input type="hidden" value="Qgmk0MeZrO9_Pq2bwdr_VXXzl8Id7RUOO6P0GshUJxwLVKeSCQnvlrRa0Y1WKGHDEf0mjwwj52FDHwYfigNdjw" data-csrf="true" class="js-confirm-csrf-token" />
+      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qkvbLptRh6DlPPYQNbex8Jrv3uo7fWM0Gvs3lBh9KG7jFthsVcHE2S5YigaiRS9m_uFvpyqzkVtiR8WRWipS_Q" autocomplete="off" />
+          <input type="hidden" value="CeMm1yuQ8AeVRvyEwXdUlMSyGYLnmYKw1HPen5jm0QZAviWV5QCzfl4igJJWhcoCoLyoz_ZXcN-szyya2rGrlQ" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="84b9c49a694fb2fbd4e59b4b92fdb38998db6b0de0d44a90bcb610d399ff0a3f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (7)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="bb9222e55bdca3df495fff91982172ef9607e8838464ac9430068db031d35bff" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (7)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2020,13 +2020,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-459ffe">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-779e55">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-459ffe"
+        id="filter-menu-779e55"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2047,9 +2047,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="qMtrDxnojTYQpZDDpfiHLBuVcSnw9OQb2YunAsHpaTglzZsKukn62tDZqUEYogsxQVb67lT8V2vZn7ITTLN9MA" autocomplete="off" />
+      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5-R5r4OUOFGbL9MTuZyGeZyoy7TsRMpGGZhgrE4WFptq4omqIDVPvVtT6pEExgpkxmtAc0hMeTYZjHW9w0wCkw" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="04606de7ccdb7a6d66d7dd0e952c288f8de253a50ccc226203290328f1565a0c" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (7)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="ccd0d7bf47b273f2cfd2f39b43a713698cac5ee887929bd0660a074cb54ce7a5" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (7)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2067,13 +2067,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-459ffe">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-779e55">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-459ffe"
+        id="filter-menu-779e55"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2260,7 +2260,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/IBM-EPBL/IBM-Project-19513-1659698882/blob/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%203/index.html">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/IBM-EPBL/IBM-Project-19513-1659698882/blob/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%202/Model_building.ipynb">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2268,7 +2268,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="55261799d888913421c13311217168e1db1085fa0031c1c22d2a38d26e165448">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="25e73c4f2dd9f2ce5ab54e3bf1a441b48fc3f2f5d5c587e0a81e123d23838be4">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2349,7 +2349,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/{{ urlEncodedRefName }}/Project%20Development%20Phase/Sprint%203/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/{{ urlEncodedRefName }}/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2391,7 +2391,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/{{ urlEncodedRefName }}/Project%20Development%20Phase/Sprint%203/index.html" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/{{ urlEncodedRefName }}/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2452,7 +2452,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IBM-EPBL/IBM-Project-19513-1659698882"><span>IBM-Project-19513-1659698882</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IBM-EPBL/IBM-Project-19513-1659698882/tree/main/Project%20Development%20Phase"><span>Project Development Phase</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IBM-EPBL/IBM-Project-19513-1659698882/tree/main/Project%20Development%20Phase/Sprint%203"><span>Sprint 3</span></a></span><span class="separator">/</span><strong class="final-path">index.html</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IBM-EPBL/IBM-Project-19513-1659698882"><span>IBM-Project-19513-1659698882</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IBM-EPBL/IBM-Project-19513-1659698882/tree/main/Project%20Development%20Phase"><span>Project Development Phase</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/IBM-EPBL/IBM-Project-19513-1659698882/tree/main/Project%20Development%20Phase/Sprint%202"><span>Sprint 2</span></a></span><span class="separator">/</span><strong class="final-path">Model_building.ipynb</strong>
   </h2>
     <a href="/IBM-EPBL/IBM-Project-19513-1659698882/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2463,7 +2463,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="c99b3ce9f6a4f77de4155f6b95fb45798b32518c7fc34b9e34d372cdd2767bf7" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/IBM-EPBL/IBM-Project-19513-1659698882/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="90cc201e47f95cffd866e164872755ffe77cbec166e0ecbc5f77fc90cf9067fe" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/IBM-EPBL/IBM-Project-19513-1659698882/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2475,13 +2475,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Project Development Phase/Sprint 3/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Project Development Phase/Sprint 2/Model_building.ipynb" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%203/index.html" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2513,7 +2513,7 @@
     <include-fragment src="/IBM-EPBL/IBM-Project-19513-1659698882/spoofed_commit_check/a3be51f5013702772186613da32733ae8d5b779d" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/IBM-EPBL/IBM-Project-19513-1659698882/contributors/main/Project%20Development%20Phase/Sprint%203/index.html" class="commit-loader">
+  <include-fragment src="/IBM-EPBL/IBM-Project-19513-1659698882/contributors/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2547,23 +2547,31 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      61 lines (52 sloc)
+      1026 lines (1026 sloc)
       <span class="file-info-divider"></span>
-    2.26 KB
+    121 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-      
+        <div class="BtnGroup">
+      <a href="/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb?short_path=e53895b" data-permalink-href="/IBM-EPBL/IBM-Project-19513-1659698882/blob/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%202/Model_building.ipynb?short_path=e53895b" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+</a>      <a href="/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" data-permalink-href="/IBM-EPBL/IBM-Project-19513-1659698882/blob/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
+</svg>
+</a>  </div>
+
 
     <div class="BtnGroup">
-        <a data-permalink-href="/IBM-EPBL/IBM-Project-19513-1659698882/raw/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%203/index.html" href="/IBM-EPBL/IBM-Project-19513-1659698882/raw/main/Project%20Development%20Phase/Sprint%203/index.html" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/IBM-EPBL/IBM-Project-19513-1659698882/blame/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%203/index.html" href="/IBM-EPBL/IBM-Project-19513-1659698882/blame/main/Project%20Development%20Phase/Sprint%203/index.html" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/IBM-EPBL/IBM-Project-19513-1659698882/raw/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" href="/IBM-EPBL/IBM-Project-19513-1659698882/raw/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/IBM-EPBL/IBM-Project-19513-1659698882/blame/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" href="/IBM-EPBL/IBM-Project-19513-1659698882/blame/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/edit/main/Project%20Development%20Phase/Sprint%203/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gbBzHPokul-n8C3YJ0pEsdCtSLRLDwjDc5aaRwYODW48iz_9LxPiTqXTZBNrU4FC688qh_0WC7h6k4mYItZVBg" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/edit/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UYCpq32KHo97a_vTWkrZTEhasf5kqd0x3aryuJbRpYLWfswqUqLbKqQsUgv_c3sYIUmkgfk1I4sOV8ag295cTQ" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2573,7 +2581,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/edit/main/Project%20Development%20Phase/Sprint%203/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="M_J5eOSb2pCSY_bpRM_VZQjco0aFtzLpComUUy_lFCKOyTWZMayCgZBAvyII1hCWM77BdTOuMZIDjIeMCz1MSg" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/edit/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="glKw912EekSeCYmr0uzH8CLTQpb54JX9lkE6ZnOF6X0FrNV2cqy_4UFOIHN31WWkS8BX6WR8a0dFvA5-PooQsg" autocomplete="off" />
               <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2581,7 +2589,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/IBM-EPBL/IBM-Project-19513-1659698882?branch=main&amp;filepath=Project%20Development%20Phase%2FSprint%203%2Findex.html" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/IBM-EPBL/IBM-Project-19513-1659698882?branch=main&amp;filepath=Project%20Development%20Phase%2FSprint%202%2FModel_building.ipynb" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2592,10 +2600,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/IBM-EPBL/IBM-Project-19513-1659698882/raw/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%203/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/IBM-EPBL/IBM-Project-19513-1659698882/raw/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="53398213a9cf47579875ecbf89f5451f7288f88e2b46b7048daf3975fa4294ac" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="36abee805e16374c6694ccdeae512a6754ba86a11c3ff67d714d594a5c805820" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2620,7 +2628,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/delete/main/Project%20Development%20Phase/Sprint%203/index.html" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="exRE0IyjaKx3NgKS_mGk95VYf-5kv3r5MRltxk6XFshD-d6CAbcmyDhI7MNJfPmFxmGO3Ha7ju_DiDFD5pr0CA" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/IBM-EPBL/IBM-Project-19513-1659698882/delete/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3N7WdgYhkA3zXXEsNF_GFvQwTIy4lByoiwmWpYlm7GdtbOFQ8aXKoheMVQXtZODAiYKbwEhoqZ6tg9bPnLZejQ" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2648,20 +2656,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/IBM-EPBL/IBM-Project-19513-1659698882?branch=main&amp;filepath=Project%20Development%20Phase%2FSprint%203%2Findex.html">
+                   href="x-github-client://openRepo/https://github.com/IBM-EPBL/IBM-Project-19513-1659698882?branch=main&amp;filepath=Project%20Development%20Phase%2FSprint%202%2FModel_building.ipynb">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/IBM-EPBL/IBM-Project-19513-1659698882/raw/main/Project%20Development%20Phase/Sprint%203/index.html">
+            <a class="dropdown-item" href="/IBM-EPBL/IBM-Project-19513-1659698882/raw/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/IBM-EPBL/IBM-Project-19513-1659698882/raw/main/Project%20Development%20Phase/Sprint%203/index.html" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/IBM-EPBL/IBM-Project-19513-1659698882/raw/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%203/index.html&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="53398213a9cf47579875ecbf89f5451f7288f88e2b46b7048daf3975fa4294ac">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:521612490,&quot;originating_url&quot;:&quot;https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb&quot;,&quot;user_id&quot;:113496437}}" data-hydro-click-hmac="36abee805e16374c6694ccdeae512a6754ba86a11c3ff67d714d594a5c805820">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2684,20 +2692,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/IBM-EPBL/IBM-Project-19513-1659698882/blame/main/Project%20Development%20Phase/Sprint%203/index.html">
+              <a class="dropdown-item" href="/IBM-EPBL/IBM-Project-19513-1659698882/blame/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/IBM-EPBL/IBM-Project-19513-1659698882/edit/main/Project%20Development%20Phase/Sprint%203/index.html">Edit file</a>
+                <a class="dropdown-item" href="/IBM-EPBL/IBM-Project-19513-1659698882/edit/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:521612490,&quot;actor_id&quot;:113496437,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/IBM-EPBL/IBM-Project-19513-1659698882/delete/main/Project%20Development%20Phase/Sprint%203/index.html">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/IBM-EPBL/IBM-Project-19513-1659698882/delete/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2706,318 +2714,32 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-html  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-jupyter-notebook  gist-border-0">
 
-        
-<div class="js-check-bidi js-blob-code-container blob-code-content">
-
-  <template class="js-file-alert-template">
-  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+          <div class="render-wrapper ">
+    <div class="render-container is-render-pending js-render-target "
+      data-identity="8a188c95-1b5c-4d27-8703-a7e305189e23"
+      data-host="https://notebooks.githubusercontent.com"
+      data-type="ipynb">
+      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="64" height="64" viewBox="0 0 16 16" fill="none" data-view-component="true" class="octospinner mx-auto anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
-  
-    <span>
-      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
-      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
-    </span>
-
-
-  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">    Show hidden characters
-</a>
-</div>
-</div></template>
-<template class="js-line-alert-template">
-  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
-</svg>
-</span></template>
-
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HTML" data-tagsearch-path="Project Development Phase/Sprint 3/index.html">
-        <tr>
-          <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c1>&lt;!DOCTYPE html<span class=pl-kos>&gt;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>html</span> <span class=pl-c1>lang</span>=&quot;<span class=pl-s>en</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>meta</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>viewport</span>&quot; <span class=pl-c1>content</span>=&quot;<span class=pl-s>width=device-width, initial-scale=1.0</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span>Home page<span class=pl-kos>&lt;/</span><span class=pl-ent>title</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>link</span> <span class=pl-c1>rel</span>=&quot;<span class=pl-s>stylesheet</span>&quot; <span class=pl-c1>href</span>=&quot;<span class=pl-s>style.css</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>head</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>main</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>navbar</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>icon</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;</span><span class=pl-ent>h2</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>logo</span>&quot;<span class=pl-kos>&gt;</span>CRUDE OIL<span class=pl-kos>&lt;/</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>menu</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span>HOME<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span>ABOUT<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span>SERVICE<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span>CONTACT<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>li</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;/</span><span class=pl-ent>ul</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>search</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>srch</span>&quot; <span class=pl-c1>type</span>=&quot;<span class=pl-s>search</span>&quot; <span class=pl-c1>name</span>=&quot;&quot; <span class=pl-c1>placeholder</span>=&quot;<span class=pl-s>Type To text</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span> <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btn</span>&quot;<span class=pl-kos>&gt;</span>Search<span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span> </td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>content</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span>Crude Oil<span class=pl-kos>&lt;</span><span class=pl-ent>br</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>span</span><span class=pl-kos>&gt;</span>Price Prediction<span class=pl-kos>&lt;/</span><span class=pl-ent>span</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>br</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>h1</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">            <span class=pl-kos>&lt;</span><span class=pl-ent>p</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>par</span>&quot;<span class=pl-kos>&gt;</span> Crude oil means a mixture of hydrocarbons that exists in liquid phase in<span class=pl-kos>&lt;</span><span class=pl-ent>br</span><span class=pl-kos>&gt;</span> </td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">                natural underground reservoirs and remains liquid <span class=pl-kos>&lt;</span><span class=pl-ent>br</span><span class=pl-kos>&gt;</span>at atmospheric pressure </td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">                after passing through <span class=pl-kos>&lt;</span><span class=pl-ent>br</span><span class=pl-kos>&gt;</span>surface separating facilities.<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>cn</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>register.html</span>&quot;<span class=pl-kos>&gt;</span>JOIN US<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>form</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span>Login Here<span class=pl-kos>&lt;/</span><span class=pl-ent>h2</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>email</span>&quot; <span class=pl-c1>name</span>=&quot;<span class=pl-s>email</span>&quot; <span class=pl-c1>placeholder</span>=&quot;<span class=pl-s>Enter Email Here</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>input</span> <span class=pl-c1>type</span>=&quot;<span class=pl-s>password</span>&quot; <span class=pl-c1>name</span>=&quot;&quot; <span class=pl-c1>placeholder</span>=&quot;<span class=pl-s>Enter Password Here</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>button</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>btnn</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span>Login<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>button</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>p</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>link</span>&quot;<span class=pl-kos>&gt;</span>Don&#39;t have an account<span class=pl-kos>&lt;</span><span class=pl-ent>br</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span>Sign up <span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span> here<span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>p</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>liw</span>&quot;<span class=pl-kos>&gt;</span>Log in with<span class=pl-kos>&lt;/</span><span class=pl-ent>p</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;</span><span class=pl-ent>div</span> <span class=pl-c1>class</span>=&quot;<span class=pl-s>icons</span>&quot;<span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">                        <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>ion-icon</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>logo-facebook</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>ion-icon</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">                        <span class=pl-kos>&lt;</span><span class=pl-ent>a</span> <span class=pl-c1>href</span>=&quot;<span class=pl-s>#</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;</span><span class=pl-ent>ion-icon</span> <span class=pl-c1>name</span>=&quot;<span class=pl-s>logo-google</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>ion-icon</span><span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>a</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">                    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">                <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;/</span><span class=pl-ent>div</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>&lt;</span><span class=pl-ent>script</span> <span class=pl-c1>src</span>=&quot;<span class=pl-s>https://unpkg.com/ionicons@5.4.0/dist/ionicons.js</span>&quot;<span class=pl-kos>&gt;</span><span class=pl-kos>&lt;/</span><span class=pl-ent>script</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>body</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>&lt;/</span><span class=pl-ent>html</span><span class=pl-kos>&gt;</span></td>
-        </tr>
-  </table>
-</div>
-
-  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
-    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-2" aria-label="Inline file action toolbar">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
-    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
-</svg>
-    </summary>
-    <details-menu>
-
-      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
-      style="width:185px"
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/IBM-EPBL/IBM-Project-19513-1659698882/blob/main/Project%20Development%20Phase/Sprint%202/Model_building.ipynb">Reload?</a></div>
+      <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
+      <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
+      <iframe
+        class="render-viewer "
+        src="https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&amp;color_mode=auto&amp;commit=a3be51f5013702772186613da32733ae8d5b779d&amp;device=unknown_device&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f49424d2d4550424c2f49424d2d50726f6a6563742d31393531332d313635393639383838322f613362653531663530313337303237373231383636313364613332373333616538643562373739642f50726f6a656374253230446576656c6f706d656e7425323050686173652f537072696e74253230322f4d6f64656c5f6275696c64696e672e6970796e62&amp;logged_in=true&amp;nwo=IBM-EPBL%2FIBM-Project-19513-1659698882&amp;path=Project+Development+Phase%2FSprint+2%2FModel_building.ipynb&amp;platform=windows&amp;repository_id=521612490&amp;repository_type=Repository&amp;version=107#8a188c95-1b5c-4d27-8703-a7e305189e23"
+        sandbox="allow-scripts allow-same-origin allow-top-navigation"
+        title="File display"
+        name="8a188c95-1b5c-4d27-8703-a7e305189e23"
       >
-        <li>
-          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
-            Copy lines
-          </clipboard-copy>
-        </li>
-        <li>
-          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
-            Copy permalink
-          </clipboard-copy>
-        </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/IBM-EPBL/IBM-Project-19513-1659698882/blame/a3be51f5013702772186613da32733ae8d5b779d/Project%20Development%20Phase/Sprint%203/index.html">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/IBM-EPBL/IBM-Project-19513-1659698882/issues/new">Reference in new issue</a></li>
-      </ul>
-    </details-menu>
-  </details>
-
+          Viewer requires iframe.
+      </iframe>
+    </div>
+  </div>
+ 
     </div>
 
     </div>
